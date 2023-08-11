@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rebelraelin
 - 👀 I’m interested in games, weed, witchy shit
-- 🌱 I’m currently learning python, ai code collaboration
+- 🌱 I’m currently learning swift, ios development, ai code collaboration
 - 💞️ I’m looking to collaborate on building cute witchy apps
 - 📫 How to reach me... send me a dm on insta @rebelrae
 
