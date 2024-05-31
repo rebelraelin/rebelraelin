@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rebelraelin
-- 👀 I’m interested in games, weed, astrology, tarot, etc
-- 🌱 I’m currently learning swift, ios development, ai code collaboration
+- 👀 I’m interested in games, weed, astrology, tarot, human design, etc
+- 🌱 I’m currently into flutter and ai code collaboration
 - 💞️ I’m looking to collaborate on building cute witchy apps
 
 <!---
